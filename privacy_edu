@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-page-node-id="Hf3FvEYOMwyNPipl7500r2">
+<head data-page-node-id="NdwN58ebYYKQYMj9GT9z2Q">
+<meta charset="UTF-8" data-page-node-id="SD4U9XRo9mmRUJ8klZNxHF">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" data-page-node-id="SqDzGh7onjpnHckj339Dub">
+<title>隐私权保护政策</title>
+<style>
+  :root {
+    --bg: #f6f8fa;
+    --card: #ffffff;
+    --text: #24292f;
+    --muted: #57606a;
+    --accent: #0969da;
+    --border: #d0d7de;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    padding: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", Helvetica, Arial, sans-serif;
+    line-height: 1.8;
+    font-size: 16px;
+  }
+  .container {
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 40px 24px 80px;
+  }
+  header {
+    text-align: center;
+    margin-bottom: 32px;
+  }
+  header h1 {
+    font-size: 28px;
+    margin: 0 0 8px;
+  }
+  header .meta {
+    color: var(--muted);
+    font-size: 14px;
+  }
+  .card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 28px 32px;
+    margin-bottom: 20px;
+  }
+  .card h2 {
+    font-size: 19px;
+    margin: 0 0 14px;
+    padding-left: 12px;
+    border-left: 4px solid var(--accent);
+  }
+  .card p, .card li {
+    color: var(--text);
+    margin: 8px 0;
+  }
+  .card ul {
+    padding-left: 24px;
+    margin: 8px 0;
+  }
+  .muted { color: var(--muted); font-size: 14px; }
+  .highlight {
+    background: #fff8c5;
+    border: 1px solid #d4a72c66;
+    border-radius: 6px;
+    padding: 12px 16px;
+    margin: 10px 0;
+  }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  footer {
+    text-align: center;
+    color: var(--muted);
+    font-size: 13px;
+    margin-top: 24px;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 12px 0;
+    font-size: 15px;
+  }
+  th, td {
+    border: 1px solid var(--border);
+    padding: 8px 12px;
+    text-align: left;
+  }
+  th { background: #f6f8fa; }
+</style>
+</head>
+<body data-page-node-id="2tOBZndFF5cLfDC5wEwvV8">
+<div class="container" data-page-node-id="Wk7mfDn7QlVlqdS63UL9xs">
+
+  <header data-page-node-id="SAvTHkElWVK7JRUNYyjdft">
+    <h1 data-page-node-id="BosUSK7DCb9IIPsikyerbj">隐私权保护政策</h1>
+    <div class="meta" data-page-node-id="8Lm4n4IMovq6vKpWNgjsDb">生效日期：2026 年 9 月 27 日 &nbsp;|&nbsp; 最近更新：2026 年 9 月 27 日</div>
+  </header>
+
+  <div class="card" data-page-node-id="EweaDMNDfye6X6sSOYvuEa">
+    <h2 data-page-node-id="mCQli4RzYsUQKFL9OEppSy">一、引言</h2>
+    <p data-page-node-id="S9BPniLCrEejsX0cGxxn9Q">我们非常重视用户的隐私和个人信息保护。本隐私政策适用于本浏览器扩展程序（以下简称"本扩展"）。请您在使用本扩展前仔细阅读本政策，使用本扩展即表示您同意本政策的全部条款。</p>
+    <div class="highlight" data-page-node-id="TWi5GvB909OZC7HIyQ0cTD">
+      <strong data-page-node-id="SL3YbkbbemJqGD9Q27Y0Sa">核心承诺：</strong>本扩展<b data-page-node-id="zOZisbJjjmwJYprx34Qz2X">不会收集、上传、存储或与任何第三方共享</b>您的任何个人数据、浏览历史或页面内容。所有数据均保存在您的浏览器本地。
+    </div>
+  </div>
+
+  <div class="card" data-page-node-id="xUU8OWe0e8BIv7xBFYKwg2">
+    <h2 data-page-node-id="PJR9oMzX8aLFfv4OcDkGEk">二、我们收集的数据</h2>
+    <p data-page-node-id="vaMQGAFmhWqqqk0xCPMmPa">本扩展仅在<b data-page-node-id="A0fYLATdGNwYtaNNjFEbAf">您的浏览器本地（chrome.storage）</b>保存以下数据：</p>
+    <table data-page-node-id="bt2WqnfS2qOIFmjTTNO3p5">
+      <tr data-page-node-id="sAKK23FEbGWauEjlTsbDk9"><th data-page-node-id="0USOjDton2hOitV4ldJIxi">数据类型</th><th data-page-node-id="Wzr2MCtmnHX6q4Qk7jYjS2">用途</th><th data-page-node-id="9jE7uB8li1wEtyLsUZDeJY">存储位置</th></tr>
+      <tr data-page-node-id="sxH88WYnGkEyFkZWXuFLay">
+        <td data-page-node-id="Mb3FcBOv5YfYBTzFgEqwjI">激活码 / 授权状态</td>
+        <td data-page-node-id="k9dwRwv7VkZyIP7jpS9Nr5">验证您对本扩展功能的使用授权，避免重复输入</td>
+        <td data-page-node-id="SMm5GscLVo7gELxKH3vtWX">仅浏览器本地存储</td>
+      </tr>
+      <tr data-page-node-id="2cFIgxUpjvymrHboBfSTKN">
+        <td data-page-node-id="inusDbKRqPo1RlTUzMUiAm">功能开关设置</td>
+        <td data-page-node-id="Y2mRPQDpFVoKHVbpoCKJGd">记住您对自动恢复播放等功能的开启/关闭偏好</td>
+        <td data-page-node-id="S1Bpi97ASK9cDMpiKP5ySV">仅浏览器本地存储</td>
+      </tr>
+    </table>
+    <p class="muted" data-page-node-id="pgz6TAWeBhUbRsEKaMq73o">上述数据不会离开您的设备，不会同步到任何服务器，卸载本扩展后即被彻底删除。</p>
+  </div>
+
+  <div class="card" data-page-node-id="RYMM2AF2yRtL6n7kBhgwym">
+    <h2 data-page-node-id="0aqR7wSMd1MlQixn5iaO4u">三、我们不收集的数据</h2>
+    <ul data-page-node-id="7rylSGsGUSvAmLGqifydGI">
+      <li data-page-node-id="GfW5BpKXKyrmekjJbov2Yt">不收集您的姓名、邮箱、电话等个人身份信息；</li>
+      <li data-page-node-id="ZUlzhffpE1VK2BB9rs2Xyo">不收集您的浏览历史、搜索记录或访问的网页内容；</li>
+      <li data-page-node-id="lE1uDKsUiayDg7SZHUXNQA">不收集网页中的文档内容、视频内容或任何用户输入；</li>
+      <li data-page-node-id="paRDioZkUUGFBUImis4gvd">不使用任何第三方统计、广告或追踪 SDK（如 Google Analytics 等）；</li>
+      <li data-page-node-id="59ljuIG6Mfw9rDIuesavQo">不出售或转让任何数据给第三方。</li>
+    </ul>
+  </div>
+
+  <div class="card" data-page-node-id="t9qgNBFoQXKIXSKcwHZRqe">
+    <h2 data-page-node-id="EYTRj7LfACAiyzQ8o8HnSt">四、权限使用说明</h2>
+    <ul data-page-node-id="yHthCVSgNFXVF3Djt1dj1O">
+      <li data-page-node-id="al05Lywcx9HfA52qK6DJAs"><strong data-page-node-id="E8xhrBLb3bgDcbHOaEOqsr">storage（存储）</strong>：用于在浏览器本地保存激活码和功能设置，实现配置的持久化。</li>
+      <li data-page-node-id="QgjisLT99SD7aZ0Urj6QVr"><strong data-page-node-id="YTQhRd0LCpZ43b6YmdfzAN">tabs（标签页）</strong>：仅用于读取当前活动标签页的 URL，以判断页面是否为视频/文档播放页面，从而决定是否启用自动恢复播放功能。不用于监控您的浏览行为。</li>
+      <li data-page-node-id="EjLPzinGGWFSlvGKDkiPbf"><strong data-page-node-id="xSksG4fbx9CO5mwY3qc7DW">内容脚本（Content Script）</strong>：仅在视频/文档播放页面运行，用于检测播放状态并在暂停时自动恢复播放，不读取或修改页面中的其他内容。</li>
+    </ul>
+  </div>
+
+  <div class="card" data-page-node-id="Ae7gZbfdDHV1jAT6DCatXi">
+    <h2 data-page-node-id="BLq5stbHzB5SoNrhIkJDCU">五、数据安全</h2>
+    <p data-page-node-id="spGgPlGSm3NoBCmAgpA1nZ">本扩展不涉及网络传输用户数据，因此不存在数据泄露、拦截或滥用的网络风险。本地存储的数据仅可通过本扩展访问，并受浏览器自身的安全机制保护。</p>
+  </div>
+
+  <div class="card" data-page-node-id="WurDnwdpd9EheFA6NyN47P">
+    <h2 data-page-node-id="dx9DVJFGYyTK0UxDlyv5Tx">六、儿童隐私</h2>
+    <p data-page-node-id="BWcKWAKPEdEuNxXlhEpSWU">本扩展不面向 13 岁以下儿童，也不会故意收集儿童的任何个人信息。</p>
+  </div>
+
+  <div class="card" data-page-node-id="tGgjgeccBmADpLf5iPShXw">
+    <h2 data-page-node-id="UG0OTXPHRQElv6c1iMY1ww">七、隐私政策的变更</h2>
+    <p data-page-node-id="j9WoD6dck3BBPFsFVsPjIP">如本政策发生重大变更，我们将在本页面更新并修改"最近更新"日期。请您定期查阅本页面以了解最新内容。</p>
+  </div>
+
+  <div class="card" data-page-node-id="RqR4SzBCpYKyigsStT0xZG">
+    <h2 data-page-node-id="SIiNLdFiXVDbKoByz4AN4u">八、联系我们</h2>
+    <p data-page-node-id="ESpFsu6yKhePKzyyljcxxa">如果您对本隐私政策有任何疑问、意见或建议，请通过以下方式联系我们：</p>
+    <ul data-page-node-id="hrn9AQHlCQGNgse0QTwcge">
+      <li data-page-node-id="EehzYKHoHYDCgyU0eCY7a9">邮箱：<a href="mailto:631639071@qq.com" data-page-node-id="OCYY7Z4TFf4J4VVbTqxpWp">631639071@qq.com</a></li>
+    </ul>
+  </div>
+
+  <footer data-page-node-id="vkAjVpOw65NHh70hwyVpx7">
+    本政策自 2026 年 9 月 27 日起生效<br data-page-node-id="n76xVTys7tDXYUZB2Ka4jF">
+    © 2026 版权所有
+  </footer>
+
+</div>
+</body>
+</html>
